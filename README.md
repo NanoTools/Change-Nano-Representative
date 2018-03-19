@@ -1,6 +1,4 @@
-# How do I change my Nano representative?
-Please choose your wallet below:
+# Tutorial: Nano representatives
 
-[nanowallet.io](wallets/nanowalletio.md)
-
-_Your wallet is missing? [Add it on GitHub](https://github.com/nanotools/Change-Nano-Representative)!_
+You want to help expanding the list?
+Fork the repo, edit the files and create a PR!
