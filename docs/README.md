@@ -22,5 +22,6 @@ A good representative should have:
 
 Lists with some good community representatives:
 
+- [NanoIsFast.com](https://nanoisfast.com/decentralized-nano-representatives/)
 - [Nanode21.cloud](https://nanode21.cloud/representatives.php)
 - [Nanode.co](https://www.nanode.co/representatives)
