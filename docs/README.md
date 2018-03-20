@@ -9,6 +9,7 @@ By changing your representative you give your voting power to a node that votes 
 Please choose your wallet below:
 
 - [nanowallet.io](wallets/nanowalletio.md)
+- [nanovault.io](wallets/nanovaultio.md)
 
 _Your wallet is missing? [Add it on GitHub](https://github.com/nanotools/Change-Nano-Representative)!_
 
