@@ -15,13 +15,14 @@ _Your wallet is missing? [Add it on GitHub](https://github.com/nanotools/Change-
 
 ## Where can I find a good representative?
 
-A good representative should have:
+You should know the maintainer and why he runs his representative.
+
+Additionally the representative should have:
 - A high uptime
 - Over 256 voting weight
 - Below 1 % of total voting weight
-- Bonus points if you know the maintainer
 
-Lists with some good community representatives:
+If you don't know any node maintainer, here is a list with some good community representatives:
 
 - [NanoIsFast.com](https://nanoisfast.com/decentralized-nano-representatives/)
 - [Nanode21.cloud](https://nanode21.cloud/representatives.php)
