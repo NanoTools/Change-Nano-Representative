@@ -27,3 +27,8 @@ If you don't know any node maintainer, here is a list with some good community r
 - [NanoIsFast.com](https://nanoisfast.com/decentralized-nano-representatives/)
 - [Nanode21.cloud](https://nanode21.cloud/representatives.php)
 - [Nanode.co](https://www.nanode.co/representatives)
+
+
+## Can I be my own representative?
+
+Sure! We suggest the [Easy Nano Node](https://nanotools.github.io/easy-nano-node/) setup, this takes only 5 minutes!
