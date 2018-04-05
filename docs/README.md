@@ -24,6 +24,7 @@ Additionally the representative should have:
 
 If you don't know any node maintainer, here is a list with some good community representatives:
 
+- [Nano Node Ninja](https://nanonode.ninja/)
 - [NanoIsFast.com](https://nanoisfast.com/decentralized-nano-representatives/)
 - [Nanode21.cloud](https://nanode21.cloud/representatives.php)
 - [Nanode.co](https://www.nanode.co/representatives)
