@@ -20,7 +20,6 @@ You should know the maintainer and why he runs his representative.
 
 Additionally the representative should have:
 - A high uptime
-- Over 256 voting weight
 - Below 1 % of total voting weight
 
 If you don't know any node maintainer, here is a list with some good community representatives:
